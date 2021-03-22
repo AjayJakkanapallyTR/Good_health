@@ -4,6 +4,7 @@ Daily Excercise for good health.
 2.running
 3.cycling
 4.jumping
+5.swimming
 
 
 Be fit, Be Healthy...
